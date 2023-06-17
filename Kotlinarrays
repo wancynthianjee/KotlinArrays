@@ -1,0 +1,6 @@
+fun main() {
+    val numbers= arrayOf(34,78,98,22,86)
+    println(numbers.sort())
+    println(numbers.sortedArray().contentToString())
+    println(numbers.contentToString())
+}
